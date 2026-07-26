@@ -1,2 +1,10 @@
-XFCE
-LightDM
+## Desktop Environment
+xfce4
+
+## Display Manager
+lightdm
+lightdm-gtk-greeter
+
+## Browser
+firefox
+duckduckgo-privacy-essentials
