@@ -14,14 +14,14 @@ Built around a custom XFCE desktop environment, VerumOS aims to provide a clean 
 - Simple and user-friendly
 - Custom tools and configurations
 - Rolling-release model
-
-## Philosophy
+  
+## The Idea
 
 VerumOS is built around three core principles:
 
-- **Simplicity** — Keep the system clean, straightforward, and easy to use.
-- **Performance** — Avoid unnecessary software and resource usage.
-- **Privacy** — Respect the user's privacy and provide tools that help users maintain control over their data.
+* **Simplicity** — Keep the system clean, straightforward, and easy to use.
+* **Performance** — Avoid unnecessary software and resource usage.
+* **Privacy** — Respect user privacy and provide tools that help users maintain control over their data.
 
 ## Status
 
